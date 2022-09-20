@@ -74,14 +74,14 @@ On Flow, the transaction layer lives separately to a Smart Contract. This means 
 
 ## Conclusion
 
-Jacob is the best. No, no. That's not the conclusion. The conclusion is that although all of this stuff sounds very complicated, it really isn't. And if you still don't understand ANY of this, that's totally okay. Sometimes it's better to jump into some examples to make things make more sense. We'll be doing that in the upcoming days.
+Hopefully I have interested you enough in why we should actually explore Smart Contract Auditing, specifically in Cadence land. If I did, then hooray! If not, then get lost, I didn't want you anyway.
 
 # Quests
 
 You are free to answer these questions in your own language of choice. And no, I don't mean computer programming language, haha.
 
-1. Explain what the Blockchain is in your own words. You can read this to help you, but you don't have to: https://www.investopedia.com/terms/b/blockchain.asp
+1. Explain why auditing a Smart Contract is important.
 
-2. Explain what a Smart Contract is. You can read this to help you, but you don't have to: https://www.ibm.com/topics/smart-contracts
+2. What are some characteristics of auditing a Smart Contract? What should we be looking for?
 
-3. Explain the difference between a script and a transaction.
+3. Is it safe enough to just audit the Smart Contract in Cadence? Why or why not?
