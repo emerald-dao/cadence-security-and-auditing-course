@@ -22,11 +22,18 @@ Here is a helpful definition guide of some weird terms we'll be using in this co
 
 **Bug**: Similar to a leak, a "bug" is when a piece of code doesn't behave the way it's supposed to.
 
+**Gas**: Put very simply, "gas" is the amount of $ it costs to run a certain transaction. The lower the gas, the better.
+
 ## What does Smart Contract Auditing *actually* mean?
 
 <img src="../../images/blockchain.png" alt="drawing" width="600"/>
 
-One of the most common misconceptions is that smart contract auditing simply refers to determining the safety of the contract. This is most certainly wrong. In reality, auditing includes a bunch of complicated understandings like how *readable* code actually is and how *understandable* it is to the user (ex. someone who doesn't even understand the computer language). After all, if code isn't understandable to the user, how can it possibly be safe? Isn't the point of this glorious Web3 to be open and transparent for all?
+One of the most common misconceptions is that smart contract auditing simply refers to determining the safety of the contract. This is most certainly wrong. In reality, auditing includes a bunch of complicated understandings like:
+1. How *readable* code actually is
+2. How *understandable* it is to the user (ex. someone who doesn't even understand the computer language). After all, if code isn't understandable to the user, how can it possibly be safe? Isn't the point of this glorious Web3 to be open and transparent for all?
+3. How *efficient* the code is
+4. How much *gas* it costs to call a certain transaction
+5. And of course, how *safe* the code is.
 
 ## Well, what is a Smart Contract?
 
